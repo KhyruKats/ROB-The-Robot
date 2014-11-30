@@ -98,6 +98,46 @@
 		border-left:none;
 		width:20%;
 		height:40px;
-	}	
+	}
+	#WeaponTree
+	{
+		position:absolute;
+		top:90px;
+		border-style:solid;
+		border-color:#FF9933;
+		border-left:none;
+		width:20%;
+		height:450px;
+	}
+	#DefenceTree
+	{
+		position:absolute;
+		top:90px;
+		left:420px;
+		border-style:solid;
+		border-color:#FF9933;
+		width:20%;
+		height:450px;
+	}
+	#DroneTree
+	{
+		position:absolute;
+		top:90px;
+		left:840px;
+		border-style:solid;
+		border-color:#FF9933;
+		width:20%;
+		height:450px;
+	}
+	#ProductionTree
+	{
+		position:absolute;
+		top:90px;
+		left:1260px;
+		border-style:solid;
+		border-color:#FF9933;
+		width:20%;
+		height:450px;
+	}
 
 </style>
