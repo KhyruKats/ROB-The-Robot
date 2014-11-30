@@ -1,4 +1,4 @@
 ROB-The-Robot
 =============
 
-Robot Destruction Game
+A game about a robot named ROB* who destroys all of mankind. 
